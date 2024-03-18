@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-😄 I am a Senior undergraduate student in USTC Data Science.
+😄 I am a undergraduate student in USTC Data Science.
 
 🔭 I'm currently working on Information Retreival, Retrieval-Augmented Generation and Code Intelligence, focusing on their Efficiency, Negative sample selection, and others.
 
