@@ -1,8 +1,8 @@
 ### Hi there 👋  
 
-😄 I am a undergraduate student in USTC Data Science.
+😄 I am a first-year master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China.
 
-🔭 I'm currently working on Information Retreival, Retrieval-Augmented Generation and Code Intelligence, focusing on their Efficiency, Negative sample selection, and others.
+🔭 I'm currently working on Information Retreival, Retrieval-Augmented Generation and Generative Retreival, focusing on their Efficiency, Negative sample selection, and others.
 
 <!--
 **GNEHUY/GNEHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
