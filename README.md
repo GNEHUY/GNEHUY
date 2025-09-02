@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-😄 I am a first-year master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China.
+😄 I am a second-year master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China.
 
 🔭 I'm currently working on Information Retreival, Retrieval-Augmented Generation and Generative Retreival, focusing on their Efficiency, Negative sample selection, and others.
 
