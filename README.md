@@ -2,7 +2,7 @@
 
 😄 I am a second-year master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China.
 
-🔭 I'm currently working on Information Retreival, Retrieval-Augmented Generation and Generative Retreival, focusing on their Efficiency, Negative sample selection, and others.
+🔭 I'm currently working on Dense Retrieval, Retrieval-Augmented Generation, and LLM for Retrieval. Recently, I've been paying more attention to DeepResearch, AgenticRAG, Retrieval-Augmented Reasoning, Generation-Augmented Retrieval, and the integration of these aforementioned areas with RL.
 
 <!--
 **GNEHUY/GNEHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
